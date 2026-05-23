@@ -20,7 +20,7 @@ Hi! I'm **Sagar Kumar Chinnakotla**, an **AI Researcher & Data Analyst** passion
 
 - 🤖 I research, build, and analyze **AI & ML systems** — from raw data to actionable insights
 - 📊 I turn messy datasets into **clean, meaningful stories** through data visualization and analysis
-- 📝 I share knowledge on **Medium & YouTube** — because learning compounds through teaching
+- 📝 I share knowledge on **Medium & LinkedIn** — because learning compounds through teaching
 - 🌱 Currently exploring **LLMs, Prompt Engineering, MLOps, and Advanced Data Analytics**
 - ⚡ Fun fact: I believe the best models are trained on **curiosity, not just data**
 - 🎯 Open to **full-time roles, research collaborations, and innovative projects**
@@ -62,16 +62,8 @@ Hi! I'm **Sagar Kumar Chinnakotla**, an **AI Researcher & Data Analyst** passion
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.youtube.com/@Ninjaraiser81" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  &nbsp;
   <a href="https://medium.com/@sagarkumarchinnakotla0" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/Ninjaraiser81" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/chinnakotla-sagar-kumar-75392723b" target="_blank">
@@ -122,10 +114,6 @@ I'm always interested in collaborating on innovative AI/ML projects, research in
   &nbsp;
   <a href="https://medium.com/@sagarkumarchinnakotla0" target="_blank">
     <img src="https://img.shields.io/badge/-Read%20on%20Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@Ninjaraiser81" target="_blank">
-    <img src="https://img.shields.io/badge/-Subscribe%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   &nbsp;
   <a href="https://github.com/Ninjaraiser81" target="_blank">
