@@ -46,8 +46,7 @@ Hi! I'm **Sagar Kumar Chinnakotla**, an **AI Researcher & Data Analyst** passion
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![SAP Analytics](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=SAP&logoColor=white)
+![SAP Analytics](https://img.shields.io/badge/SAPAnalytics-4479A1?style=for-the-badge&logo=SAP&logoColor=white)
 
 
 ### ⚙️ Tools & Platforms
